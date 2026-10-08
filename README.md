@@ -21,3 +21,6 @@
 
 ## 技术栈
 Python · pandas · seaborn · matplotlib · scikit-learn
+
+## 可视化仪表板
+![仪表板](dashboard.png)
