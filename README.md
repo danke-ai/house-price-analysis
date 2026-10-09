@@ -23,4 +23,4 @@
 Python · pandas · seaborn · matplotlib · scikit-learn
 
 ## 可视化仪表板
-<img width="956" height="539" alt="dashboard" src="https://github.com/user-attachments/assets/bb2ef014-d781-452a-aa34-7a819d91ec81" />
+<img width="536" height="298" alt="dashboard" src="https://github.com/user-attachments/assets/3d85982c-6985-402b-9f5c-64d943d2261d" />
